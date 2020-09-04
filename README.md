@@ -27,19 +27,20 @@
 
 This project was developted in order to practice with **PHP 7**.
 But it also has **CSS** and **XML** to make it works correctly.
+
 I used XML for save websites's urls and I 'was not allowed' to use JavasCript.
 
 # Preview🔍
 
-*Index.php,Tenerife.php,Enlaces.php,Interno.php* files/pages preview
+*Index.php,Tenerife.php,Enlaces.php,Interno.php files/pages preview*
 
  ![GIF](https://github.com/Hukex/GobCanWebSimulation/blob/master/readmefiles/preview.gif)
 
-*Localidad.php* file/page preview
+*Localidad.php file/page preview*
 
  ![GIF](https://github.com/Hukex/GobCanWebSimulation/blob/master/readmefiles/preview2.gif)
 
- *Interno.php* file/page preview 
+ *Interno.php file/page preview*
 
  ![GIF](https://github.com/Hukex/GobCanWebSimulation/blob/master/readmefiles/preview3.gif)
 
@@ -71,29 +72,32 @@ I used XML for save websites's urls and I 'was not allowed' to use JavasCript.
 
 # Setup🔧
 
-Install PHP 7 and in my case XAMPP for Apache server and MySQL.
+-Install PHP 7 and in my case XAMPP for Apache server and MySQL.
+
+-Clone this repository 
 
 ```bash
 git clone https://github.com/Hukex/GobCanWebSimulation.git
 ```
 
-Now just save the folder cloned on **xampp/htdocs** it is usually on C:\\
+-Now just save the folder cloned on **xampp/htdocs** it is usually on C:\\
 
-For Database have to create a new DB on phpmyadmin and import the file demantantes.sql 
+-For Database have to create a new DB on phpmyadmin and import the file demantantes.sql 
 
 
  ![IMG](https://github.com/Hukex/GobCanWebSimulation/blob/master/readmefiles/6.png)
+
 
 # Usage📋
 Start Apache and MySQL on XAMPP.
 
  ![IMG](https://github.com/Hukex/GobCanWebSimulation/blob/master/readmefiles/7.png)
 
-Basically the main page (index) is **index.php**, if you had done the past step just open your browser and write on the url the next
+Basically the main page (index) is **index.php**, if you had done the past step just open your browser and write the next url
 
 **localhost/*foldercloned***
 
-It will load index.php if you have XAMPP Apache ports on 80, IF YOU DON'T then change url ports localhost:NUMBERPORT/*foldercloned***
+It will load index.php if you have XAMPP Apache ports on 80, IF YOU DON'T then change url ports localhost:NUMBERPORT/*foldercloned*
 
 Now you can enjoy it.
 
