@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Enlaces>
+    <enlace>
+        <nombre>Servicio Canario de Empleo </nombre>
+        <url>https://www3.gobiernodecanarias.org/empleo/portal/web/sce</url>
+    </enlace>
+    <enlace>
+        <nombre>Formacion en Mejora de Empleo</nombre>
+        <url>https://www3.gobiernodecanarias.org/empleo/portal/web/sce/servicios/cursos</url>
+
+    </enlace>
+    <enlace>
+        <nombre>Pincel ekade</nombre>
+        <url>https://www.gobiernodecanarias.org/educacion/9/PEKWEB/Ekade/Account/LogOn?ReturnUrl=%2Feducacion%2FPEKWEB%2FEkade%2F</url>
+    </enlace>
+    <enlace>
+        <nombre>Tenerife Wikipedia</nombre>
+        <url>https://es.wikipedia.org/wiki/Tenerife</url>
+    </enlace>
+    <enlace>
+        <nombre>Campus virtual</nombre>
+        <url>https://www3.gobiernodecanarias.org/educacion/cau_ce/cas/login?service=http%3A%2F%2Fwww3.gobiernodecanarias.org%2Fmedusa%2Feforma%2Fcampus%2Flogin%2Findex.php</url>
+    </enlace>
+    <enlace>
+        <nombre>Cita previa Servicio Canario de Salud</nombre>
+        <url>https://www3.gobiernodecanarias.org/citasalud/</url>
+    </enlace>
+    <enlace>
+        <nombre>Cita previa Empleo</nombre>
+        <url>https://sede.gobcan.es/empleo/sce/cita_previa</url>
+    </enlace>
+    <enlace>
+        <nombre>Sede electronica</nombre>
+        <url>https://www.agenciatributaria.gob.es/</url>
+    </enlace>
+</Enlaces>
